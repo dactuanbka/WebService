@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitAssignment</string>
+    <string name="buy">Buy</string>
+    <string name="rent">Rent</string>
+    <string name="type">Type</string>
+    <string name="price">$Price</string>
+</resources>
